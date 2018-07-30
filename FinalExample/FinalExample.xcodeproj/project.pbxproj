@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2315FE74210EDA5B0065496A /* personalPage.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2315FE73210EDA5B0065496A /* personalPage.storyboard */; };
 		59E78232210EAD8300C19A41 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59E78231210EAD8300C19A41 /* AppDelegate.swift */; };
 		59E78234210EAD8300C19A41 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59E78233210EAD8300C19A41 /* ViewController.swift */; };
 		59E78237210EAD8300C19A41 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 59E78235210EAD8300C19A41 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2315FE73210EDA5B0065496A /* personalPage.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = personalPage.storyboard; sourceTree = "<group>"; };
 		59E7822E210EAD8300C19A41 /* FinalExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FinalExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		59E78231210EAD8300C19A41 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		59E78233210EAD8300C19A41 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				59E78231210EAD8300C19A41 /* AppDelegate.swift */,
 				59E78233210EAD8300C19A41 /* ViewController.swift */,
 				59E78235210EAD8300C19A41 /* Main.storyboard */,
+				2315FE73210EDA5B0065496A /* personalPage.storyboard */,
 				59E7823B210EAD8400C19A41 /* Assets.xcassets */,
 				59E7823D210EAD8400C19A41 /* LaunchScreen.storyboard */,
 				59E78240210EAD8400C19A41 /* Info.plist */,
@@ -128,6 +131,7 @@
 				59E7823F210EAD8400C19A41 /* LaunchScreen.storyboard in Resources */,
 				59E7823C210EAD8400C19A41 /* Assets.xcassets in Resources */,
 				59E78237210EAD8300C19A41 /* Main.storyboard in Resources */,
+				2315FE74210EDA5B0065496A /* personalPage.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
